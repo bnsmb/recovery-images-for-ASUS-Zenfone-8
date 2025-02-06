@@ -1,6 +1,15 @@
 
+**Warning: All recovery images in this repository are in-offical, self-compiled images**
+
+***Use at your own risk!***
+
+---
+
 ***OrangeFox-Unofficial-I006D-2024-09-12.img.zip***
+
 ***OrangeFox-Unofficial-I006D-2024-09-12.zip***
+
+This an [OrangeFox recovery](https://wiki.orangefox.tech) image for the **ASUS Zenfone 8**.
 
 The source files for the ***OrangeFox recovery*** were checked out ***10.09.204***.
 
@@ -28,15 +37,17 @@ see [https://gitlab.com/OrangeFox/vendor/recovery/-/blob/master/orangefox_build_
 
 see [https://wiki.orangefox.tech](https://wiki.orangefox.tech) for infos about the OrangeFox recovery
 
-see [How to compile the OrangeFox Recovery for the ASUS Zenfone 8 for instructions to create the image]
-(https://bnsmb.de/My_Howtos_for_Android.html#How_to_compile_the_OrangeFox_Recovery_for_the_ASUS_Zenfone_8)	
+see [https://bnsmb.de/My_HowTos_for_Android.html#How_to_compile_the_OrangeFox_Recovery_for_the_ASUS_Zenfone_8](https://bnsmb.de/My_HowTos_for_Android.html#How_to_compile_the_OrangeFox_Recovery_for_the_ASUS_Zenfone_8)
+
 
 ---
 	
 ***twrp-3.7.0_12-0-I006D-with_Android14_support.img.zip***
 	
 
-The source files for this TWRP image were checked out on 25.11.2023.
+This is an TWRP image for the **ASUS Zenfone 8**.
+
+The source files for this TWRP image were checked out on **25.11.2023**.
 
 There are additional properties defined in this image:
 
@@ -53,15 +64,14 @@ ASUS_I006D:/ #
 
 ***Note***
 
-There is now an official new TWRP version for ASUS Zenfone 8 with Android 14 support: TWRP version 3.7.0.12-1
+There is now an official new TWRP version for ASUS Zenfone 8 with Android 14 support: [TWRP version 3.7.0.12-1](https://eu.dl.twrp.me/I006D/twrp-3.7.0_12-1-I006D.img.html)
 
 
 ---
 
 ***twrp-3.7.0_12-0-I006D-with_Android14_support_and_tools.img.zip***
 
-
-this is the TWRP image ***twrp-3.7.0_12-0-I006D-with_Android14_support.img*** with these additional binaries:
+This is the TWRP image ***twrp-3.7.0_12-0-I006D-with_Android14_support.img*** for the **ASUS Zenfone 8** with these additional binaries:
 
 ```
 ASUS_I006D:/ # ls -l /system/bin/ed system/bin/gawk /system/bin/gdisk /system/bin/parted /system/bin/sqlite3 /system/bin/vi/system/xbin
@@ -95,9 +105,8 @@ ASUS_I006D:/ #
 ---
 
 ***twrp-3.7.0_12-1-I006D-enhanced.img.zip***
-	
 
-this is a copy of the official ***twrp-3.7.0_12-1-I006D.img*** with some additional files:
+This is a copy of the official ***twrp-3.7.0_12-1-I006D.img*** for the **ASUS Zenfone 8** with some additional files:
 
 ```
 ASUS_I006D:/system/bin # pwd
@@ -124,16 +133,17 @@ total 4500
 -rwxr-xr-x 1 root root 1216256 2024-01-10 19:54 tar
 ASUS_I006D:/system/bin #  
 ```
-see [How to add additional files to an TWRP image[(http://bnsmb.de/My_HowTos_for_Android.html#How_to_add_additional_files_to_an_TWRP) for how to add additional files to a TWRP image
+see [How to add additional files to an TWRP image](http://bnsmb.de/My_HowTos_for_Android.html#How_to_add_additional_files_to_an_TWRP) for how to add additional files to a TWRP image
 
 ---
 
 
 ***twrp_3.7.1.12-1_ASUS_Zenfone8_2024-12-02_extended.img.zip***
 	
-This is an in-official TWRP image for the ASUS Zenfone 8 with additional binaries
 
-Use at your own risk!  	The source files for this TWRP image were checked out on 10.09.2024.
+This is a TWRP image for the **ASUS Zenfone 8** with additional binaries
+
+The source files for this TWRP image were checked out on **10.09.2024**.
 
 Additional binaries and files in the image are:
 
@@ -180,7 +190,7 @@ ASUS_I006D:/ # getprop ro.image_create_date
 ASUS_I006D:/ #
 ```
 
-Check [https://gerrit.twrp.me/[(https://gerrit.twrp.me/) for a list of changes in the source code
+Check [https://gerrit.twrp.me/](https://gerrit.twrp.me/) for a list of changes in the source code
 
 ---
 
