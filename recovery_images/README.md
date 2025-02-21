@@ -1,5 +1,5 @@
 
-**Warning: All recovery images in this repository are in-offical, self-compiled images**
+***Warning: All recovery images in this repository are unofficial, self-compiled images***
 
 ***Use at your own risk!***
 
