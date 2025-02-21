@@ -192,5 +192,60 @@ ASUS_I006D:/ #
 
 Check [https://gerrit.twrp.me/](https://gerrit.twrp.me/) for a list of changes in the source code
 
+**Update 21.02.2025**
+
+There is a bug in this TWRP image, so it could not be used to install TWRP on the boot partition. This bug is fixed in the new version of the image. 
+
 ---
 
+***twrp_3.7.1.12-1_ASUS_Zenfone8_2025-02-21_extended.img***
+
+This is a TWRP image for the **ASUS Zenfone 8** with additional binaries
+
+The source files for this TWRP image were checked out on **10.09.2024**.
+
+Additional binaries and files in the image are:
+
+The additional binaries in this image are
+
+    GNU ed 1.18
+    GPT fdisk (gdisk) version 1.0.3
+    parted (GNU parted) 3.2
+    sqlite3 3.39.3 2022-09-05
+    VIM - Vi IMproved 9.1 Included patches: 1-672
+    GNU Awk 5.2.0, API 3.2, PMA Avon 7
+    cpio (GNU cpio) 2.12
+    dd (coreutils) 9.5.58-83ec7
+    find (GNU findutils) 4.9.0
+    grep (GNU grep) 3.8
+    gsed (GNU sed) 4.8
+    gzip 1.13
+    less 643 (POSIX regular expressions)
+    tar (GNU tar) 1.34
+    GNU bash, version 5.2.0(1)-release (aarch64-unknown-linux-gnu)
+    bvi 1.4.1
+    bmore 1.4.1
+    dmctl
+    lpadd
+    lpdump
+    lpmake
+    make_ext4fs
+    lputil (from [https://www.temblast.com/lputil.html](https://www.temblast.com/lputil.html))
+
+(The new versions of the binary files already present in the TWRP image are located in the directory **/system/xbin**.)
+
+There are some new properties defined in this image:
+
+```
+ASUS_I006D:/ # getprop ro.product.type
+enhanced
+ASUS_I006D:/ #
+            
+ASUS_I006D:/ # getprop ro.source_checkout_date
+2024-09-10
+ASUS_I006D:/ #
+            
+ASUS_I006D:/ # getprop ro.image_create_date
+2025-02-21
+ASUS_I006D:/ #
+```
