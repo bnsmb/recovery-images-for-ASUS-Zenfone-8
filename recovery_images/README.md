@@ -249,3 +249,18 @@ ASUS_I006D:/ # getprop ro.image_create_date
 2025-02-21
 ASUS_I006D:/ #
 ```
+
+---
+
+The recovery images in the directory **ugly_images** are unofficial TWRP images created using an unsupported method. These images should only be used for emergency tasks.
+
+see [How to use TWRP if LineageOS 20.x is installed](http://bnsmb.de/My_HowTos_for_Android.html#How_to_use_TWRP_if_LineageOS_20.x_is_installed) for details and why these images should only be used if neccessary)
+
+See alos [How to create a TWRP image for LineageOS based ROMs using a script](http://bnsmb.de/My_HowTos_for_Android.html#How_to_create_a_TWRP_image_for_LineageOS_based_ROMs_using_a_script) for details about the script used to create these images.
+
+---
+
+
+
+ 
+
