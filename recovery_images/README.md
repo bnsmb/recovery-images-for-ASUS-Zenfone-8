@@ -9,7 +9,7 @@
 
 ***OrangeFox-Unofficial-I006D-2024-09-12.zip***
 
-This an [OrangeFox recovery](https://wiki.orangefox.tech) image for the **ASUS Zenfone 8**.
+This is an [OrangeFox recovery](https://wiki.orangefox.tech) image for the **ASUS Zenfone 8**.
 
 The source files for the ***OrangeFox recovery*** were checked out ***10.09.204***.
 
