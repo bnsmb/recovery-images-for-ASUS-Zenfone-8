@@ -14,6 +14,8 @@ To avoid this problem, deactivate the screen timeout in the TWRP settings.
 
 ---
 
+The script used to create these TWRP images is also available in a github repoitory:  [https://github.com/bnsmb/scripts-for-Android/blob/main/scripts/create_ugly_twrp_image.sh](https://github.com/bnsmb/scripts-for-Android/blob/main/scripts/create_ugly_twrp_image.sh).
+
 see [TWRP images for ASUS Zenfone 8 with /e/](http://bnsmb.de/My_HowTos_for_Android.html#TWRP_images_for_ASUS_Zenfone_8_with_e) for details
 
 see [How to use TWRP if LineageOS 20.x is installed](http://bnsmb.de/My_HowTos_for_Android.html#How_to_use_TWRP_if_LineageOS_20.x_is_installed) for details and why these images should only be used if neccessary
