@@ -1,6 +1,10 @@
 **Ugly TWRP images**
 
-The recovery images in this directory are unofficial TWRP images created using an unsupported method. These images should only be used for emergency tasks.
+Since **LineageOS verison 20**, the **ASUS Zenfone 8** can no longer boot from the TWRP recovery images when the LineageOS is installed on the phone.
+
+The TWRP images in this directory get around this issue.
+
+The recovery images in this directory are **unofficial** TWRP images created using an unsupported method. These images should only be used for emergency tasks.
 
 Using these TWRP images you can access the files in the **/data** partition while booted from the recovery image.
 
@@ -21,6 +25,9 @@ see [TWRP images for ASUS Zenfone 8 with /e/](http://bnsmb.de/My_HowTos_for_Andr
 see [How to use TWRP if LineageOS 20.x is installed](http://bnsmb.de/My_HowTos_for_Android.html#How_to_use_TWRP_if_LineageOS_20.x_is_installed) for details and why these images should only be used if neccessary
 
 See [How to create a TWRP image for LineageOS based ROMs using a script](http://bnsmb.de/My_HowTos_for_Android.html#How_to_create_a_TWRP_image_for_LineageOS_based_ROMs_using_a_script) for details about the script used to create these images.
+
+The /e/ OS images for the **ASUS Zenfone 8** are available here: [https://images.ecloud.global/community/sake/](https://images.ecloud.global/community/sake/)
+
 
 ---
 
