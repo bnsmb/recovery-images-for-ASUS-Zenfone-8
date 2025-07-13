@@ -59,5 +59,8 @@ The TWRP images in this directory are:
 | twrp-e-2.8-t-20250219470166-community-sake.img | /e/ | 2.8 | Android 13 | |
 | twrp-e-2.9-t-20250322478412-community-sake.img | /e/ | 2.9 | Android 13 | | 
 | twrp-e-3.0-t-20250529496537-community-sake.img | /e/ | 3.0 | Android 13 | | 
+| twrp-e-3.0.1-t-20250607498934-community-sake.img.zip | /e/ | 3.0.1 | Android 13 |
+| twrp-e-3.0.4-t-20250710507809-community-sake.img.zip | /e/ | 3.0.4 | Android 13 |
+
 
 ---
