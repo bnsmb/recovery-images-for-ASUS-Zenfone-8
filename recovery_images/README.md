@@ -5,15 +5,45 @@
 
 ---
 
+***OrangeFox-R11.3-Unofficial-I006D.img-2025-07-23.zip***
+
+This is a [OrangeFox recovery](https://wiki.orangefox.tech) image for the **ASUS Zenfone 8**.
+
+The source files for the ***OrangeFox recovery*** were checked out ***23.07.2025***.
+
+The image was compiled with the default values for the custom build vars
+
+<details><summary><b>Custom Build variables used</b></summary>
+```
+export FOX_USE_TAR_BINARY=1
+export FOX_USE_SED_BINARY=1
+export FOX_USE_LZ4_BINARY=1
+export FOX_USE_ZSTD_BINARY=1
+export FOX_USE_DATE_BINARY=1
+export FOX_USE_BASH_SHELL=1
+
+```
+</details>
+
+see [https://gitlab.com/OrangeFox/vendor/recovery/-/blob/master/orangefox_build_vars.txt](https://gitlab.com/OrangeFox/vendor/recovery/-/blob/master/orangefox_build_vars.txt) for a description of the custom build vars
+
+see [https://wiki.orangefox.tech](https://wiki.orangefox.tech) for infos about the OrangeFox recovery
+
+see [https://bnsmb.de/My_HowTos_for_Android.html#How_to_compile_the_OrangeFox_Recovery_for_the_ASUS_Zenfone_8](https://bnsmb.de/My_HowTos_for_Android.html#How_to_compile_the_OrangeFox_Recovery_for_the_ASUS_Zenfone_8)
+
+
+
 ***OrangeFox-Unofficial-I006D-2024-09-12.img.zip***
 
 ***OrangeFox-Unofficial-I006D-2024-09-12.zip***
 
-This is an [OrangeFox recovery](https://wiki.orangefox.tech) image for the **ASUS Zenfone 8**.
+This is a [OrangeFox recovery](https://wiki.orangefox.tech) image for the **ASUS Zenfone 8**.
 
-The source files for the ***OrangeFox recovery*** were checked out ***10.09.204***.
+The source files for the ***OrangeFox recovery*** were checked out ***10.09.2024***.
 
 The image was compiled with these custom build vars:
+
+<details><summary><b>Custom Build variables used</b></summary>
 
 ```
 export FOX_REPLACE_BUSYBOX_PS=1
@@ -32,6 +62,7 @@ export FOX_DELETE_AROMAFM=1
 
 export TARGET_DEVICE_ALT="gssi,ASUS_I006D"
 ```
+</details>
 
 see [https://gitlab.com/OrangeFox/vendor/recovery/-/blob/master/orangefox_build_vars.txt](https://gitlab.com/OrangeFox/vendor/recovery/-/blob/master/orangefox_build_vars.txt) for a description of the custom build vars
 
@@ -45,7 +76,7 @@ see [https://bnsmb.de/My_HowTos_for_Android.html#How_to_compile_the_OrangeFox_Re
 ***twrp-3.7.0_12-0-I006D-with_Android14_support.img.zip***
 	
 
-This is an TWRP image for the **ASUS Zenfone 8**.
+This is a TWRP image for the **ASUS Zenfone 8**.
 
 The source files for this TWRP image were checked out on **25.11.2023**.
 
