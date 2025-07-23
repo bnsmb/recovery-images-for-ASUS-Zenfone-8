@@ -1,5 +1,14 @@
 **Ugly TWRP images**
 
+----
+**Update 19.07.2025**
+
+The new OS image for **/e/** for the **ASUS Zenfone 8** available here [https://images.ecloud.global/community/sake/](https://images.ecloud.global/community/sake/) are now based on the **LineageOS 22.x** (this is **Android 15**).
+
+Unfortunately "ugly" TWRP images created for **LineageOS 22.x** based OS do not work anymore. Therefor there will be no more new ugly TWRP images for **/e/**.  
+
+----
+
 Since **LineageOS verison 20**, the **ASUS Zenfone 8** can no longer boot from the TWRP recovery images when the LineageOS is installed on the phone.
 
 The TWRP images in this directory get around this issue.
