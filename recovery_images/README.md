@@ -11,9 +11,10 @@ This is a [OrangeFox recovery](https://wiki.orangefox.tech) image for the **ASUS
 
 The source files for the ***OrangeFox recovery*** were checked out ***23.07.2025***.
 
-The image was compiled with the default values for the custom build vars
+The image was compiled with these values for the custom build vars
 
 <details><summary><b>Custom Build variables used</b></summary>
+
 ```
 export FOX_USE_TAR_BINARY=1
 export FOX_USE_SED_BINARY=1
@@ -21,9 +22,10 @@ export FOX_USE_LZ4_BINARY=1
 export FOX_USE_ZSTD_BINARY=1
 export FOX_USE_DATE_BINARY=1
 export FOX_USE_BASH_SHELL=1
-
 ```
+
 </details>
+
 
 see [https://gitlab.com/OrangeFox/vendor/recovery/-/blob/master/orangefox_build_vars.txt](https://gitlab.com/OrangeFox/vendor/recovery/-/blob/master/orangefox_build_vars.txt) for a description of the custom build vars
 
@@ -31,7 +33,7 @@ see [https://wiki.orangefox.tech](https://wiki.orangefox.tech) for infos about t
 
 see [https://bnsmb.de/My_HowTos_for_Android.html#How_to_compile_the_OrangeFox_Recovery_for_the_ASUS_Zenfone_8](https://bnsmb.de/My_HowTos_for_Android.html#How_to_compile_the_OrangeFox_Recovery_for_the_ASUS_Zenfone_8)
 
-
+----
 
 ***OrangeFox-Unofficial-I006D-2024-09-12.img.zip***
 
@@ -288,6 +290,8 @@ The recovery images in the directory **ugly_images** are unofficial TWRP images 
 see [How to use TWRP if LineageOS 20.x is installed](http://bnsmb.de/My_HowTos_for_Android.html#How_to_use_TWRP_if_LineageOS_20.x_is_installed) for details and why these images should only be used if neccessary
 
 See [How to create a TWRP image for LineageOS based ROMs using a script](http://bnsmb.de/My_HowTos_for_Android.html#How_to_create_a_TWRP_image_for_LineageOS_based_ROMs_using_a_script) for details about the script used to create these images.
+
+see [How to create a TWRP recovery image for LineageOS 22.x](http://bnsmb.de/My_HowTos_for_Android.html#How_to_create_a_TWRP_recovery_image_for_LineageOS_22.x) for how instructions to create an "ugly" TWRP image for LineageOS 22.0 or later
 
 ---
 
