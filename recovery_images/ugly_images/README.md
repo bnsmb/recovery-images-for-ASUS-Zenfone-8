@@ -1,13 +1,5 @@
 **Ugly TWRP images**
 
-----
-**Update 19.07.2025**
-
-The new OS image for **/e/** for the **ASUS Zenfone 8** available here [https://images.ecloud.global/community/sake/](https://images.ecloud.global/community/sake/) are now based on the **LineageOS 22.x** (this is **Android 15**).
-
-Unfortunately "ugly" TWRP images created for **LineageOS 22.x** based OS do not work anymore. Therefor there will be no more new ugly TWRP images for **/e/**.  
-
-----
 
 Since **LineageOS verison 20**, the **ASUS Zenfone 8** can no longer boot from the TWRP recovery images when the LineageOS is installed on the phone.
 
@@ -35,12 +27,15 @@ see [How to use TWRP if LineageOS 20.x is installed](http://bnsmb.de/My_HowTos_f
 
 See [How to create a TWRP image for LineageOS based ROMs using a script](http://bnsmb.de/My_HowTos_for_Android.html#How_to_create_a_TWRP_image_for_LineageOS_based_ROMs_using_a_script) for details about the script used to create these images.
 
-The /e/ OS images for the **ASUS Zenfone 8** are available here: [https://images.ecloud.global/community/sake/](https://images.ecloud.global/community/sake/)
+The **/e/** OS images for the **ASUS Zenfone 8** are available here: [https://images.ecloud.global/community/sake/](https://images.ecloud.global/community/sake/)
 
+**Update 23.07.2025**
+
+To create an "ugly" TRWP image for a **LineageOS 22.x** based OS (**/e/ 3.0.4-a15** is **LineageOS 22** based) use the (TWRP based) recovery [OrangeFox](https://wiki.orangefox.tech/en/home) -- see  [How to create a TWRP recovery image for LineageOS 22.x](http://bnsmb.de/My_HowTos_for_Android.html#How_to_create_a_TWRP_recovery_image_for_LineageOS_22.x) 
 
 ---
 
-**WARNING**
+**WARNING** 
 
 **Do not use the TWRP images mentioned in this post if the OS installed on the phone is not the correct OS or not the correct OS version!**
 
@@ -70,6 +65,7 @@ The TWRP images in this directory are:
 | twrp-e-3.0-t-20250529496537-community-sake.img | /e/ | 3.0 | Android 13 | | 
 | twrp-e-3.0.1-t-20250607498934-community-sake.img | /e/ | 3.0.1 | Android 13 |
 | twrp-e-3.0.4-t-20250710507809-community-sake.img | /e/ | 3.0.4 | Android 13 |
+| orangefox_e-3.0.4-a15-20250712508365-community-sake.img.zip | /e/ | e3.0.4-a15 | Android 15 | This image was created using OrangeFox
 
 
 ---
