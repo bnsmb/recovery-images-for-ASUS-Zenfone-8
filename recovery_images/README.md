@@ -26,6 +26,8 @@ export FOX_USE_BASH_SHELL=1
 
 </details>
 
+I tested this OrangeFox recovery image successfully with **OmniROM 16**, **15**, **14**, and **13**.
+
 
 see [https://gitlab.com/OrangeFox/vendor/recovery/-/blob/master/orangefox_build_vars.txt](https://gitlab.com/OrangeFox/vendor/recovery/-/blob/master/orangefox_build_vars.txt) for a description of the custom build vars
 
