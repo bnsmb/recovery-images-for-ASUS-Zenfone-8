@@ -33,6 +33,13 @@ The **/e/** OS images for the **ASUS Zenfone 8** are available here: [https://im
 
 To create an "ugly" TRWP image for a **LineageOS 22.x** based OS (**/e/ 3.0.4-a15** is **LineageOS 22** based) use the (TWRP based) recovery [OrangeFox](https://wiki.orangefox.tech/en/home) -- see  [How to create a TWRP recovery image for LineageOS 22.x](http://bnsmb.de/My_HowTos_for_Android.html#How_to_create_a_TWRP_recovery_image_for_LineageOS_22.x) 
 
+**Update 21.08.2025**
+
+There is now a github repository with a workflow to build an "ugly" OrangeFox recovery for the **ASUS Zenfone 8** available:
+
+[https://github.com/bnsmb/OrangeFox-Recovery-Builder-2024/](https://github.com/bnsmb/OrangeFox-Recovery-Builder-2024/)
+
+
 ---
 
 **WARNING** 
